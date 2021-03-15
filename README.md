@@ -13,7 +13,7 @@ crnn部分测试 --> ctpn_test.py
 链接：https://pan.baidu.com/s/1Yjf3qMi82Qmy2vGTTuHZmA 
 提取码：i753 
 
-#Reference
+# Reference
 文本识别 https://github.com/yinchangchang/ocr_densenet
 自动文本生成程序，用于训练集的生成 https://github.com/Sanster/text_renderer
 
