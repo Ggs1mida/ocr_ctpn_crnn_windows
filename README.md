@@ -14,6 +14,7 @@ crnn部分测试 --> ctpn_test.py
 提取码：i753 
 
 # Reference
+CTPN+Densenet OCR Solution https://github.com/YCG09/chinese_ocr
 文本识别 https://github.com/yinchangchang/ocr_densenet  
 自动文本生成程序，用于训练集的生成 https://github.com/Sanster/text_renderer
 
